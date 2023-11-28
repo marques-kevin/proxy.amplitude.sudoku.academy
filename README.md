@@ -20,14 +20,6 @@ click on a button below to deploy to your favorite cloud provider:
 
 
 <!-- URLS -->
-[Google Cloud Btn]: https://binbashbanana.github.io/deploy-buttons/buttons/remade/googlecloud.svg
-[Google Cloud Deploy]: https://deploy.cloud.run
-
-[Digital Ocean Btn]: https://www.deploytodo.com/do-btn-blue.svg
-[Digital Ocean Deploy]: https://cloud.digitalocean.com/apps/new?repo=https://github.com/mixpanel/tracking-proxy
-
-[Railway Btn]: https://binbashbanana.github.io/deploy-buttons/buttons/remade/railway.svg
-[Railway Deploy]: https://railway.app/template/_RaWSW
 
 [Render Btn]: https://binbashbanana.github.io/deploy-buttons/buttons/remade/render.svg
 [Render Deploy]: https://render.com/deploy?repo=https://github.com/foudroyerdotcom/proxy.mixpanel.foudroyer.com
