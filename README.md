@@ -30,7 +30,7 @@ click on a button below to deploy to your favorite cloud provider:
 [Railway Deploy]: https://railway.app/template/_RaWSW
 
 [Render Btn]: https://binbashbanana.github.io/deploy-buttons/buttons/remade/render.svg
-[Render Deploy]: https://render.com/deploy?repo=https://github.com/mixpanel/tracking-proxy
+[Render Deploy]: https://render.com/deploy?repo=https://github.com/foudroyerdotcom/proxy.mixpanel.foudroyer.com
 
 
 <!-- Maybe later? -->
