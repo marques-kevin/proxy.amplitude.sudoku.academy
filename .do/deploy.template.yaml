@@ -1,9 +1,9 @@
 spec:
- name: mixpanel-api-proxy
- services:
- - name: mixpanel-api-proxy
-   git:
-     branch: master
-     repo_clone_url: https://github.com/mixpanel/tracking-proxy.git
-   dockerfile_path: ./Dockerfile
-   http_port: 80
+  name: amplitude-api-proxy
+  services:
+    - name: amplitude-api-proxy
+      git:
+        branch: master
+        repo_clone_url: https://github.com/marques-kevin/proxy.amplitude.sudoku.academy
+      dockerfile_path: ./Dockerfile
+      http_port: 80
