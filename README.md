@@ -19,7 +19,7 @@ click on a button below to deploy to your favorite cloud provider:
 <!-- URLS -->
 
 [Render Btn]: https://binbashbanana.github.io/deploy-buttons/buttons/remade/render.svg
-[Render Deploy]: https://render.com/deploy?repo=https://github.com/foudroyerdotcom/proxy.mixpanel.foudroyer.com
+[Render Deploy]: https://render.com/deploy?repo=https://github.com/marques-kevin/proxy.amplitude.sudoku.academy
 
 
 <!-- Maybe later? -->
